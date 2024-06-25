@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main_box{
+    width: 940px;
+    height: 600px;
+    margin: 100px auto;
+    margin-top: 30px;
+
+    background: linear-gradient(navy 10%, white 11% 21%, navy 22% 33%, white 33% 44%, navy 45% 55%, white 56% 66%, navy 67% 77%, white 78% 88%, navy 89% 100%);
+.sun_pic{
+    width: 150px;
+    height: 150px;
+}
